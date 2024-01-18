@@ -3,7 +3,7 @@
 # Hello!👋
 > We're a bunch of furry gamers who love rhythm games!
 
-简体中文
+[简体中文](https://github.com/PawTeamClub/.github/blob/main/README_cn.md)
 
 # About Paw
 
