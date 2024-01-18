@@ -18,19 +18,13 @@ The hope is for this community to become a place that everyone is willing to vis
 Teams are currently open to join now.
 
 If you are not from China and would like to join our community, there are several ways to contact us:
-
 1. osu! DM
-
     - Please reach out to the osu! DM captain: **[\[Paw\]FIood](https://osu.ppy.sh/users/6336721)**.
-
     - However, due to potential busyness or time zone differences, response times may vary.
 
 2. Discord
-
     - You can contact the management team on Discord: **\[Paw\]FIood(hdroop_7)** | **\[Paw\]tame(bottame)**. 
-
     - We will get back to you within 24 to 48 hours.
-
 There are no ideas to recreate other chat groups.
 
 # URL
