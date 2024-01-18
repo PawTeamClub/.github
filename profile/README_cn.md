@@ -3,7 +3,7 @@
 # Hello!👋
 > 我们是一群热爱节奏游戏的福瑞玩家！
 
-[English](https://github.com/PawTeamClub/.github/blob/main/README.md)
+[English](https://github.com/PawTeamClub/.github/profile/blob/main/README.md)
 
 # 关于Paw
 
