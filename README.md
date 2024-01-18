@@ -7,7 +7,7 @@
 
 # About Paw
 
-Paw is a Furry music game community formed by [FIood](https://osu.ppy.sh/users/6336721), aiming to bring together Furries who play osu!, allowing everyone to communicate and interact together.
+Paw is a Furry music game community formed by **[\[Paw\]FIood](https://osu.ppy.sh/users/6336721)**, aiming to bring together Furries who play osu!, allowing everyone to communicate and interact together.
 
 Each Furry in the community has their own unique characteristics, with everyone excelling in their respective areas, making them distinct and one-of-a-kind individuals.
 
@@ -21,13 +21,13 @@ If you are not from China and would like to join our community, there are severa
 
 1. osu! DM
 
-    - Please reach out to the osu! DM captain: [FIood](https://osu.ppy.sh/users/6336721).
+    - Please reach out to the osu! DM captain: **[\[Paw\]FIood](https://osu.ppy.sh/users/6336721)**.
 
     - However, due to potential busyness or time zone differences, response times may vary.
 
 2. Discord
 
-    - You can contact the management team on Discord: FIood(hdroop_7) | tame(bottame). 
+    - You can contact the management team on Discord: **\[Paw\]FIood(hdroop_7)** | **\[Paw\]tame(bottame)**. 
 
     - We will get back to you within 24 to 48 hours.
 
