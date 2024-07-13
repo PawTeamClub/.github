@@ -7,7 +7,7 @@
 
 # About Paw
 
-Paw is a Furry music game community formed by **[\[Paw\]FIood](https://osu.ppy.sh/users/6336721)**, aiming to bring together Furries who play osu!, allowing everyone to communicate and interact together.
+Paw is a Furry rhythm community formed by **[\[Paw\]FIood](https://osu.ppy.sh/users/6336721)**, aiming to bring together Furries who play osu!, allowing everyone to communicate and interact together.
 
 Each Furry in the community has their own unique characteristics, with everyone excelling in their respective areas, making them distinct and one-of-a-kind individuals.
 
